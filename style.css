@@ -1,3 +1,6 @@
 .home{
     background-color: blue;
 }
+.mg{
+  display: flex;  
+}

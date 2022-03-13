@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
 }
-.hero{
+.Head{
   background: url(./images/image\ 1.jpg);
   background-size: cover;
   background-position: relative;
@@ -11,7 +11,7 @@
   height: 110vh;
   width: 100%;
 }
-.services{
+.Para{
   background: url(./images/image2.jpg);
   background-size: cover;
   background-position: relative;
@@ -19,7 +19,7 @@
   height: 60vh;
   width: 100%;
 }
-.contacts{
+.Input{
   background: url(./images/image3.jpg);
   background-size: cover;
   background-position: relative;
@@ -27,10 +27,10 @@
   height: 80vh;
   width: 100%;
 }
-.hero-content p{
+.Head-content p{
   font-size: 10px;
 }
-.hero-content .img{
+.Head-content .img{
   margin-top: -20px;
   padding-top: 20px;
 }

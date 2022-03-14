@@ -8,6 +8,5 @@
     Javascript and Bootstrap
 ## SETUP INSTRUCTION AND INSTALLATION
    clone this this repository to a location in your file system
-
 ## LICENSE
-   **MIT** Copyright(c) 2022
+**MIT** Copyright(c) 2022

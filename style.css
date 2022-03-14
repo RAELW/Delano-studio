@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
 }
-.HOME{
+.home{
   background: url(./images/image\ 1.jpg);
   background-size: cover;
   background-position: relative;
@@ -11,13 +11,13 @@
   height: 110vh;
   width: 100%;
 }
-.hero-content h2,.hero-content{
+.home-content h2,.hero-content{
   font-size: 60px;
 }
 .mouse{
   margin-top: -150px;
 }
-.services{
+.para{
   background: url(./images/image2.jpg);
   background-size: cover;
   background-position: relative;
@@ -25,7 +25,7 @@
   height: 60vh;
   width: 100%;
 }
-.contacts{
+.contact{
   background: url(./images/image3.jpg);
   background-size: cover;
   background-position: relative;

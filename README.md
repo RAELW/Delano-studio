@@ -5,7 +5,9 @@
 ## TECHNOLOGIES USED
     Html
     Css
-    Javascript and (Bootstrap)
+    Javascript 
+    (Bootstrap)
 ## SETUP INSTRUCTION AND INSTALLATION
    clone this this repository to a location in your file system
+
 

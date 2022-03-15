@@ -17,7 +17,7 @@
 .mouse{
   margin-top: -150px;
 }
-.para{
+.services{
   background: url(./images/image2.jpg);
   background-size: cover;
   background-position: relative;
@@ -25,7 +25,7 @@
   height: 60vh;
   width: 100%;
 }
-.contact{
+.contacts{
   background: url(./images/image3.jpg);
   background-size: cover;
   background-position: relative;

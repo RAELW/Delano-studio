@@ -12,5 +12,5 @@
 ## SETUP INSTRUCTION AND INSTALLATION
    clone this  repository to a location in your file system 
 ## LICENSE
-   **MIT LICENSE**
+   **MIT**
    Copyright(c) 2022 
